@@ -1,0 +1,21 @@
+<?php
+return [
+    '156资源网（推荐）'=>'www.156zy.com',
+    '33uu资源网（推荐）'=>'www.33uu.tv',
+    '最大资源网（推荐）'=>'zuidazy.net',
+    '最大资源网（备用）'=>'www.zuida.me',
+    'OK资源网（推荐）'=>'www.okzy.me',
+    '131资源网（推荐）'=>'www.131zyw.com',
+	'酷酷资源网（推荐）'=>'www.kukuzy.com',
+	'花园资源网（推荐）'=>'api.88gc.net',
+	'酷播资源网（推荐）'=>'www.kubozy.net',
+    '强强资源网（推荐）'=>'caiji.000o.cc',
+    'C值资源网（推荐）'=>'www.ziyuanpian.com',
+    'go1977资源（推荐）'=>'www.go1977.com',
+    '1977资源网（推荐）'=>'www.1977zy.com',
+	'百万资源网（推荐）'=>'www.baiwanzy.com',
+	'605资源网（不推荐）'=>'www.605zy.com',
+	'6U资源网（不推荐）'=>'zy.ataoju.com',
+	'8老爷资源（不推荐）'=>'www.888laoye.com',
+    '91资源网（不推荐）'=>'www.91zy.cc',
+];
